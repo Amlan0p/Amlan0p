@@ -83,7 +83,7 @@ I'm a Computer Science Engineering student who enjoys building practical applica
 ### 📊 Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch&perline=5" />
 </p>
 
 ### 🗄️ Databases
@@ -102,10 +102,6 @@ I'm a Computer Science Engineering student who enjoys building practical applica
 
 ## 🌟 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🇮🇳 Hidden India
 
 A tourism-focused application designed to help users discover destinations across India.
@@ -122,8 +118,7 @@ A tourism-focused application designed to help users discover destinations acros
 
 **Tech:** React • JavaScript • AI APIs • OpenStreetMap • Android
 
-</td>
-<td width="50%">
+---
 
 ### 🧠 PRECURSOR-X
 
@@ -139,11 +134,7 @@ A cybersecurity-focused hackathon project combining interactive visualization wi
 
 🔗 [View Repository](https://github.com/Amlan0p/Precursor-x-)
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 🏥 Health-Care
 
@@ -153,8 +144,7 @@ A healthcare application project exploring digital tools for easier access to he
 
 🔗 [View Repository](https://github.com/Amlan0p/Health-Care)
 
-</td>
-<td width="50%">
+---
 
 ### 📊 Data Analytics
 
@@ -169,10 +159,6 @@ Projects focused on extracting useful insights from structured datasets.
 
 **Tech:** Python • Pandas • NumPy • Matplotlib
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📚 Currently Learning
@@ -186,20 +172,12 @@ Projects focused on extracting useful insights from structured datasets.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amlan0p&theme=tokyonight&hide_border=true" height="175" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amlan0p&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amlan0p&theme=tokyonight&hide_border=true" height="175" alt="GitHub streak statistics" />
 </p>
 
 ---
@@ -207,7 +185,7 @@ Projects focused on extracting useful insights from structured datasets.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amlan0p&theme=github-compact&hide_border=true&area=true&custom_title=Amlan's%20Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amlan0p&theme=github-compact&hide_border=true&area=true" width="95%" alt="Amlan's GitHub contribution activity" />
 </p>
 
 ---
@@ -215,10 +193,12 @@ Projects focused on extracting useful insights from structured datasets.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Amlan0p/Amlan0p/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amlan0p/Amlan0p/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amlan0p/Amlan0p/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Amlan0p/Amlan0p/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%">
+  </picture>
 </p>
-
-> **Note:** The snake requires the GitHub Actions workflow included in this profile repository.
 
 ---
 
