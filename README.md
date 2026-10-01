@@ -19,7 +19,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amlan0p&label=Profile%20Views&color=238636&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Amlan0p?label=Followers&style=for-the-badge&color=238636" alt="GitHub followers" />
 </p>
 
@@ -83,7 +82,9 @@ I'm a Computer Science Engineering student who enjoys building practical applica
 ### 📊 Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
@@ -111,6 +112,8 @@ A tourism-focused application designed to help users discover destinations acros
 **Highlights:** 🗺️ Interactive maps • 🤖 AI travel assistant • 🌐 AI translation • 🏨 Tourism & hotel information • 📥 Offline content • 🚨 SOS functionality • 🔐 Authentication • 📱 Android development
 
 **Tech:** React • JavaScript • AI APIs • OpenStreetMap • Android
+
+🔗 **Repository:** Add the Hidden India repository link here
 
 ---
 
