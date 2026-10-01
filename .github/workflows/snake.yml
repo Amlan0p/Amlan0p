@@ -8,24 +8,39 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution activity SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python3 generate_activity.py
+
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

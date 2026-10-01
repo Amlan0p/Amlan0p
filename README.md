@@ -83,7 +83,9 @@ I'm a Computer Science Engineering student who enjoys building practical applica
 ### 📊 Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,tensorflow,pytorch&perline=5" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ### 🗄️ Databases
@@ -106,15 +108,7 @@ I'm a Computer Science Engineering student who enjoys building practical applica
 
 A tourism-focused application designed to help users discover destinations across India.
 
-**Highlights**
-- 🗺️ Interactive maps
-- 🤖 AI travel assistant
-- 🌐 AI translation
-- 🏨 Tourism & hotel information
-- 📥 Offline content
-- 🚨 SOS functionality
-- 🔐 Authentication
-- 📱 Android development
+**Highlights:** 🗺️ Interactive maps • 🤖 AI travel assistant • 🌐 AI translation • 🏨 Tourism & hotel information • 📥 Offline content • 🚨 SOS functionality • 🔐 Authentication • 📱 Android development
 
 **Tech:** React • JavaScript • AI APIs • OpenStreetMap • Android
 
@@ -124,11 +118,7 @@ A tourism-focused application designed to help users discover destinations acros
 
 A cybersecurity-focused hackathon project combining interactive visualization with security-oriented concepts.
 
-**Highlights**
-- 📊 Interactive visualization
-- 🔐 Cybersecurity concepts
-- 🧠 AI/ML concepts
-- 🌐 Web-based interface
+**Highlights:** 📊 Interactive visualization • 🔐 Cybersecurity concepts • 🧠 AI/ML concepts • 🌐 Web-based interface
 
 **Tech:** Web Development • Data Visualization • AI/ML
 
@@ -150,12 +140,7 @@ A healthcare application project exploring digital tools for easier access to he
 
 Projects focused on extracting useful insights from structured datasets.
 
-**Includes**
-- Data cleaning
-- Exploratory Data Analysis
-- Feature engineering
-- Business analysis
-- Visualization
+**Includes:** Data cleaning • Exploratory Data Analysis • Feature engineering • Business analysis • Visualization
 
 **Tech:** Python • Pandas • NumPy • Matplotlib
 
@@ -172,12 +157,12 @@ Projects focused on extracting useful insights from structured datasets.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="175" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amlan0p&theme=tokyonight&hide_border=true" height="175" alt="GitHub streak statistics" />
+  <img src="https://streak-stats.demolab.com/?user=Amlan0p&theme=tokyonight&hide_border=true" height="175" alt="GitHub streak statistics" />
 </p>
 
 ---
@@ -185,7 +170,7 @@ Projects focused on extracting useful insights from structured datasets.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amlan0p&theme=github-compact&hide_border=true&area=true" width="95%" alt="Amlan's GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/Amlan0p/Amlan0p/output/contribution-activity.svg" width="95%" alt="Amlan's GitHub contribution activity" />
 </p>
 
 ---
@@ -205,7 +190,8 @@ Projects focused on extracting useful insights from structured datasets.
 ## 💭 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer quote" />
+  <i>“Talk is cheap. Show me the code.”</i><br/>
+  — Linus Torvalds
 </p>
 
 ---
