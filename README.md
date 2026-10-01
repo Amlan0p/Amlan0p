@@ -113,7 +113,7 @@ A tourism-focused application designed to help users discover destinations acros
 
 **Tech:** React • JavaScript • AI APIs • OpenStreetMap • Android
 
-🔗 **Repository:** Add the Hidden India repository link here
+🔗 [View Repository](https://github.com/Amlan0p/Hidden-India.git)
 
 ---
 
