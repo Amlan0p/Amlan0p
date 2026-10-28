@@ -121,7 +121,7 @@ A cybersecurity-focused hackathon project combining interactive visualization wi
 
 **Tech:** Web Development • Data Visualization • AI/ML
 
-🔗 [View Repository](https://github.com/Amlan0p/Precursor-x-)
+🔗 [View Repository](https://github.com/Amlan0p/Precursor-x)
 
 ---
 
