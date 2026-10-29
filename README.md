@@ -135,6 +135,18 @@ A healthcare application project exploring digital tools for easier access to he
 
 ---
 
+🚗 BidDrive — Vehicle Auction Android App
+
+A native Android vehicle auction application built with Kotlin and Jetpack Compose, backed by a TypeScript API and PostgreSQL database.
+
+Highlights: 📱 Native Android app · 🚘 Vehicle listings · 🔨 Auction and bidding · ❤️ Watchlist · 🔐 User authentication · 🌐 REST API · 🗄️ PostgreSQL database
+
+Tech: Kotlin · Jetpack Compose · TypeScript · Node.js · Express · PostgreSQL · Drizzle ORM · Render
+
+🔗 "View Repository" (https://github.com/Amlan0p/Bid-Drive) · 📥 "Download Android APK" (https://github.com/Amlan0p/Bid-Drive/releases/latest) · 🌐 "Live Backend API" (https://biddrive-api.onrender.com)
+
+---
+
 ### 📊 Data Analytics
 
 Projects focused on extracting useful insights from structured datasets.
