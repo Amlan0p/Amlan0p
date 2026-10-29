@@ -192,12 +192,24 @@ Projects focused on extracting useful insights from structured datasets.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="175" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Most used languages" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+    height="175"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+    height="175"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Amlan0p&theme=tokyonight&hide_border=true" height="175" alt="GitHub streak statistics" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Amlan0p&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    height="175"
+  />
 </p>
 
 ---
