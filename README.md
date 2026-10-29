@@ -193,22 +193,21 @@ Projects focused on extracting useful insights from structured datasets.
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amlan0p&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=Amlan0p&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Statistics"
-    height="175"
+    height="165"
   />
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Amlan0p&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
-    height="175"
+    height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Amlan0p&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Amlan0p&theme=github-dark-blue&hide_border=true"
     alt="GitHub Contribution Streak"
-    height="175"
   />
 </p>
 
