@@ -109,7 +109,7 @@ A tourism-focused application designed to help users discover destinations acros
 
 **Tech:** React • JavaScript • AI APIs • OpenStreetMap • Android
 
-🔗 [View Repository](https://github.com/Amlan0p/Hidden-India.git)
+📁 [View Repository](https://github.com/Amlan0p/Hidden-India.git)
 
 ---
 
@@ -121,7 +121,7 @@ A cybersecurity-focused hackathon project combining interactive visualization wi
 
 **Tech:** Web Development • Data Visualization • AI/ML
 
-🔗 [View Repository](https://github.com/Amlan0p/Precursor-x)
+📁 [View Repository](https://github.com/Amlan0p/Precursor-x)
 
 🔗 [Visit Demo Website](https://precursor-x-front-end.onrender.com)
 
@@ -133,7 +133,7 @@ A healthcare application project exploring digital tools for easier access to he
 
 **Tech:** HTML • CSS • JavaScript • AI concepts
 
-🔗 [View Repository](https://github.com/Amlan0p/Health-Care)
+📁 [View Repository](https://github.com/Amlan0p/Health-Care)
 
 ---
 
@@ -145,13 +145,13 @@ A native Android vehicle auction application built with Kotlin and Jetpack Compo
 
 **Tech:** Kotlin · Jetpack Compose · TypeScript · Node.js · Express · PostgreSQL · Drizzle ORM · Render
 
-🔗 [View Repository](https://github.com/Amlan0p/Bid-Drive)
+📁 [View Repository](https://github.com/Amlan0p/Bid-Drive)
 
 📥 [Download Android APK](https://github.com/Amlan0p/Bid-Drive/releases/latest)
 
 ---
 
-### ✅ Todo-List
+### 📋 Todo-List
 
 A task management application where users can register, log in, and manage
 their own tasks.
@@ -165,7 +165,7 @@ their own tasks.
 
 **Tech:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL
 
-🔗 [View Repository](https://github.com/Amlan0p/Todo-List)
+📁 [View Repository](https://github.com/Amlan0p/Todo-List)
 
 🔗 [Visit Demo Website](https://todos-app-2gcd.onrender.com)
 
