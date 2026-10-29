@@ -123,6 +123,8 @@ A cybersecurity-focused hackathon project combining interactive visualization wi
 
 🔗 [View Repository](https://github.com/Amlan0p/Precursor-x)
 
+🔗 [Visit Demo Website](https://precursor-x-front-end.onrender.com)
+
 ---
 
 ### 🏥 Health-Care
@@ -146,6 +148,26 @@ A native Android vehicle auction application built with Kotlin and Jetpack Compo
 🔗 [View Repository](https://github.com/Amlan0p/Bid-Drive)
 
 📥 [Download Android APK](https://github.com/Amlan0p/Bid-Drive/releases/latest)
+
+---
+
+### ✅ Todo-List
+
+A task management application where users can register, log in, and manage
+their own tasks.
+
+**Highlights**
+- 🔐 User authentication with JWT
+- 📝 Create, view, update, and delete tasks
+- 👤 User-specific task management
+- 🗄️ PostgreSQL database integration
+- ☁️ Deployment configuration for Render
+
+**Tech:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL
+
+🔗 [View Repository](https://github.com/Amlan0p/Todo-List)
+
+🔗 [Visit Demo Website](https://todos-app-2gcd.onrender.com)
 
 ---
 
