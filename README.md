@@ -111,6 +111,8 @@ A tourism-focused application designed to help users discover destinations acros
 
 📁 [View Repository](https://github.com/Amlan0p/Hidden-India.git)
 
+📥 [Download Android APK](https://github.com/Amlan0p/Hidden-India/releases/latest)
+
 ---
 
 ### 🧠 PRECURSOR-X
