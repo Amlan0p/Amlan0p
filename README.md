@@ -183,6 +183,10 @@ Projects focused on extracting useful insights from structured datasets.
 
 **Tech:** Python • Pandas • NumPy • Matplotlib
 
+📁 [View Repository](https://github.com/Amlan0p/SmartMart-Sales-Analysis.git)
+
+🔗 [Visit Demo Website](https://smartmart.streamlit.app/)
+
 ---
 
 ## 📚 Currently Learning
