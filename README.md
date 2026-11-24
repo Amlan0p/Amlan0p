@@ -175,7 +175,7 @@ their own tasks.
 
 ---
 
-### 📊 Data Analytics
+### 📊 SmartMart-Sales-Analysis
 
 Projects focused on extracting useful insights from structured datasets.
 
